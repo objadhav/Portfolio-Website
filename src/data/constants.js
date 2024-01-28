@@ -12,7 +12,7 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1sW5p1IDPWLJZvXIM9DmwqxtgcFoLD1dW/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/om-jadhav-669a741b8/",
-  twitter: "",
+  twitter: "https://twitter.com/objadhav7",
   insta: "",
   facebook: "",
 };
