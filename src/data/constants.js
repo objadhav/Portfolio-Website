@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/objadhav",
   resume:
-    "https://drive.google.com/file/d/1sW5p1IDPWLJZvXIM9DmwqxtgcFoLD1dW/view?usp=drivesdk",
+    "https://drive.google.com/file/d/12FqdbY3B0NVbie4LfqGYBu-UA0XxmKjr/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/om-jadhav-669a741b8/",
   twitter: "https://twitter.com/objadhav7",
   insta: "",
@@ -320,8 +320,8 @@ export const education = [
     img: "https://firebasestorage.googleapis.com/v0/b/portfolio-c687b.appspot.com/o/rcpit_logo1.webp?alt=media&token=cbf3d4e7-7973-4514-9e89-4abcd0ffe07c",
     school: "R. C. Patel Institute of Technology, Shirpur",
     date: "Nov 2022 - July 2025",
-    grade: "8.15 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Engineering at R. C. Patel Institute of Technology, Shirpur. Having completed four semesters, I maintain a CGPA of 8.15. My coursework includes in-depth studies in Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among other relevant subjects.",
+    grade: "8.62 CGPA",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Engineering at R. C. Patel Institute of Technology, Shirpur. Having completed four semesters, I maintain a CGPA of 8.62. My coursework includes in-depth studies in Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among other relevant subjects.",
     degree: "Bachelor of Technology - BTech, Computer Engineering",
   },
   {
